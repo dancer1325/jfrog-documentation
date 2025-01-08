@@ -1,0 +1,1 @@
+https://docs.qwak.com/docs/installing-the-qwak-sdk

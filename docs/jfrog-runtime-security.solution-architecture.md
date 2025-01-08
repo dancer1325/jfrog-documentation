@@ -1,0 +1,1 @@
+https://jfrog.com/help/r/jfrog-runtime-security/solution-architecture
