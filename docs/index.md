@@ -12,6 +12,10 @@ https://jfrog.com/help/search/documents?value-filters=sourceName_custom~%2522Doc
   * Upgrade
     * TODO:
   * [Helm Charts -- for -- Advanced users](jfrog-installation-setup-documentation.helm-charts-for-advanced-users.md)
+    * ALL products - customization
+      * TODO:
+      * [Add Circle of Trust Certificates](jfrog-installation-setup-documentation.add-circle-of-trust-certificates.md)
+      * TODO:
     * TODO:
   * [DDBB configuration](jfrog-installation-setup-documentation.database-configuration.md)
     * TODO:
@@ -49,6 +53,8 @@ https://jfrog.com/help/search/documents?value-filters=sourceName_custom~%2522Doc
     * [Package management](jfrog-artifactory-documentation.package-management.md)
       * TODO:
     * [Artifact management](jfrog-artifactory-documentation.artifact-management.md)
+      * TODO:
+      * [Deploying artifacts](jfrog-artifactory-documentation.deploying-artifacts.md)
       * TODO:
     * JFrog Container registry
       * TODO:
