@@ -38,6 +38,8 @@ https://jfrog.com/help/search/documents?value-filters=sourceName_custom~%2522Doc
     * [JFrog Artifactory Edge](get-started-with-the-jfrog-platform.jfrog-artifactory-edge.md)
     * [JFrog Mission Control](get-started-with-the-jfrog-platform.jfrog-mission-control.md)
   * TODO:
+  * [Onboarding Best Practices: JFrog Xray](get-started-with-the-jfrog-platform.onboarding-best-practices-jfrog-xray.md)
+  * [Onboarding Best Practices: JFrog Artifactory](get-started-with-the-jfrog-platform.onboarding-best-practices-jfrog-artifactory.md)
 * [Products](products.md)
   * [JFrog Artifactory](jfrog-artifactory-documentation.jfrog-artifactory.md)
     * Application Search
