@@ -76,6 +76,20 @@ https://jfrog.com/help/search/documents?value-filters=sourceName_custom~%2522Doc
   * TODO:
   * [\+ CDN Distribution](jfrog-hosting-models-documentation.jfrog-cloud-with-cdn-distribution.md)
   * TODO:
+* [JFrog REST APIs](https://jfrog.com/help/r/jfrog-rest-apis/jfrog-rest-apis)
+  * [here](http)
+* [JFrog Platform Administration](jfrog-platform-administration-documentation.platform-administration.md)
+  * TODO:
+  * [Identity and Access](jfrog-platform-administration-documentation.identity-and-access.md)
+    * TODO:
+    * [Access Tokens](jfrog-platform-administration-documentation.access-tokens.md)
+    * TODO:
+  * TODO:
+  * [Access Federation](jfrog-platform-administration-documentation.access-federation.md)
+    * TODO:
+    * [Establish the Circle of Trust](jfrog-platform-administration-documentation.establish-the-circle-of-trust.md)
+    * TODO:
+  * TODO:
 * [Integrations](https://jfrog.com/integrations/)
 * [Applications](https://github.com/jfrog/documentation)
 * Resources
