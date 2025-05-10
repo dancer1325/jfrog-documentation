@@ -7,6 +7,8 @@ https://jfrog.com/help/search/documents?value-filters=sourceName_custom~%2522Doc
     * TODO:
   * [Install](jfrog-installation-setup-documentation.install.md)
     * TODO:
+    * [Installing Artifactory Edge](jfrog-installation-setup-documentation.installing-artifactory-edge.md)
+    * TODO:
   * Upgrade
     * TODO:
   * [Helm Charts -- for -- Advanced users](jfrog-installation-setup-documentation.helm-charts-for-advanced-users.md)
