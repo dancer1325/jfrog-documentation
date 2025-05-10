@@ -45,7 +45,7 @@ https://jfrog.com/help/search/documents?value-filters=sourceName_custom~%2522Doc
       * TODO:
     * [Package management](jfrog-artifactory-documentation.package-management.md)
       * TODO:
-    * Artifact management
+    * [Artifact management](jfrog-artifactory-documentation.artifact-management.md)
       * TODO:
     * JFrog Container registry
       * TODO:
