@@ -28,6 +28,8 @@ https://jfrog.com/help/search/documents?value-filters=sourceName_custom~%2522Doc
   * [Passwordless Access for Amazon EKS](jfrog-installation-setup-documentation.passwordless-access-for-amazon-eks.md)
     * TODO:
 * [Get Started](get-started-with-the-jfrog-platform.get-started.md)
+  * [JFrog Platform Overview](get-started-with-the-jfrog-platform.jfrog-platform-overview.md)
+    * [JFrog Mission Control](get-started-with-the-jfrog-platform.jfrog-mission-control.md)
   * TODO:
 * [Products](products.md)
   * [JFrog Artifactory](jfrog-artifactory-documentation.jfrog-artifactory.md)
