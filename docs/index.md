@@ -29,6 +29,7 @@ https://jfrog.com/help/search/documents?value-filters=sourceName_custom~%2522Doc
     * TODO:
 * [Get Started](get-started-with-the-jfrog-platform.get-started.md)
   * [JFrog Platform Overview](get-started-with-the-jfrog-platform.jfrog-platform-overview.md)
+    * [JFrog Artifactory Edge](get-started-with-the-jfrog-platform.jfrog-artifactory-edge.md)
     * [JFrog Mission Control](get-started-with-the-jfrog-platform.jfrog-mission-control.md)
   * TODO:
 * [Products](products.md)
