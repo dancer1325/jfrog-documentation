@@ -1,4 +1,5 @@
 https://jfrog.com/help/r/jfrog-artifactory-documentation/jfrog-artifactory
+https://jfrog.com/help/r/get-started-with-the-jfrog-platform/jfrog-artifactory
 
 * == DevOps system of record /
   * allows
@@ -45,20 +46,48 @@ https://jfrog.com/help/r/jfrog-artifactory-documentation/jfrog-artifactory
   * Google Cloud Storage,
   * Azure Blob Storage
   * Filestore Sharding
-* providing unlimited scalability, disaster recovery, and unmatched stability and reliability
-* Accommodates large load bursts with no compromise to performance
-* Increase capacity to any degree with horizontal server scalability to serve any number of concurrent users, build servers and interactions.
+* provide
+  * unlimited scalability,
+  * disaster recovery,
+  * unmatched stability & reliability
 
 ### High Availability
-* Full active/active HA solution with live failover and non-disruptive production upgrades
-* see High Availability
+* provide
+  * live failover
+  * non-disruptive production upgrades
 
-Advanced CI Server integration with Build Tools: JFrog Artifactory supports build integration whether you are running builds on one of the common CI servers in use today, on cloud-based CI servers or standalone without a CI server. Integration of Artifactory into your build ecosystem provides important information that supports fully reproducible builds through visibility of artifacts deployed, dependencies and information on the build environment. Artifactory provides visibility into your builds through the metadata it attaches to each artifact. In this way, you can trace your container images back to their source, so you always know what’s in your builds. For more information, see Build Integration.
+### Advanced CI Server integration -- with -- Build Tools
+* JFrog Artifactory -- supports -- build integration 
+  * requirements
+    * run builds | 
+      * common CI servers
+      * cloud-based CI servers
+      * standalone -- WITHOUT -- CI server
+* -- provides -- 
+  * visibility -- through the metadata, -- about your builds
+* TODO: Integration of Artifactory into your build ecosystem provides important information that supports fully reproducible builds through visibility of artifacts deployed, dependencies and information on the build environment
+* In this way, you can trace your container images back to their source, so you always know what’s in your builds
 
-Custom API-Driven Automation: Artifactory exposes an extensive REST API that provides access to its features anywhere in the development cycle. Through the API you can manage builds, repositories and artifacts, you can perform searches, apply configurations, perform maintenance tasks and more.
+### Custom API-Driven Automation
+* == REST API /
+  * allows
+    * managing
+      * builds, 
+      * repositories
+      * artifacts
+    * searching
+    * applying configurations
+    * performing maintenance tasks 
+* uses
+  * | development cycle
 
-Advanced Search with Artifactory Query Language: AQL (Artifactory Query Language) gives you unprecedented flexibility in how you search for artifacts. It offers a simple way to formulate complex queries that specify any number of search criteria, filters, sorting options and output fields.
+### Advanced Search -- via -- Artifactory Query Language (AQL)
+* uses
+  * search for artifacts
+* allows
+  * specifying search criteria,
+  * filter
+  * sort options & output fields
 
-Artifactory Cloud with CDN Distribution: JFrog Artifactory Cloud with Amazon's CloudFront CDN solution allows Enterprise users to manage, control, and distribute high volumes of software distribution across multiple locations. The fully integrated advanced CDN solution removes the need to deal with the complexity of setting up a separate external CDN Caching system. For more information, see JFrog Cloud with CDN Distribution.
-
-* TODO:
+### Artifactory Cloud -- via -- CDN Distribution
+* [here](jfrog-hosting-models-documentation.jfrog-cloud-with-cdn-distribution.md)

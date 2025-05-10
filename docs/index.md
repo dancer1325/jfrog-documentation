@@ -72,6 +72,10 @@ https://jfrog.com/help/search/documents?value-filters=sourceName_custom~%2522Doc
       * [installation](qwak.installing-the-qwak-sdk.md)
       * TODO:
     * TODO:
+* [JFrog Cloud](jfrog-hosting-models-documentation.jfrog-cloud.md)
+  * TODO:
+  * [\+ CDN Distribution](jfrog-hosting-models-documentation.jfrog-cloud-with-cdn-distribution.md)
+  * TODO:
 * [Integrations](https://jfrog.com/integrations/)
 * [Applications](https://github.com/jfrog/documentation)
 * Resources
