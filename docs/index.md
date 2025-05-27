@@ -37,9 +37,16 @@ https://jfrog.com/help/search/documents?value-filters=sourceName_custom~%2522Doc
   * [JFrog Platform Overview](get-started-with-the-jfrog-platform.jfrog-platform-overview.md)
     * [JFrog Artifactory Edge](get-started-with-the-jfrog-platform.jfrog-artifactory-edge.md)
     * [JFrog Mission Control](get-started-with-the-jfrog-platform.jfrog-mission-control.md)
-  * TODO:
-  * [Onboarding Best Practices: JFrog Xray](get-started-with-the-jfrog-platform.onboarding-best-practices-jfrog-xray.md)
-  * [Onboarding Best Practices: JFrog Artifactory](get-started-with-the-jfrog-platform.onboarding-best-practices-jfrog-artifactory.md)
+  * [QuickStart Guide](get-started-with-the-jfrog-platform.quickstart-guide.md)
+    * [Go](get-started-with-the-jfrog-platform.quickstart-guide-go.md)
+      * TODO:
+    * [Maven & Gradle](get-started-with-the-jfrog-platform.quickstart-guide-maven-and-gradle.md)
+      * TODO:
+    * [npm](get-started-with-the-jfrog-platform.quickstart-guide-npm.md)
+      * TODO:
+  * Onboarding Best Practices
+    * [JFrog Xray](get-started-with-the-jfrog-platform.onboarding-best-practices-jfrog-xray.md)
+    * [JFrog Artifactory](get-started-with-the-jfrog-platform.onboarding-best-practices-jfrog-artifactory.md)
 * [Products](products.md)
   * [JFrog Artifactory](jfrog-artifactory-documentation.jfrog-artifactory.md)
     * Application Search
